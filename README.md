@@ -21,16 +21,7 @@ Combino desarrollo web y análisis de datos, moviéndome entre HTML, CSS, JavaSc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JorgeValer&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeValer&layout=compact&theme=gruvbox&hide_border=true" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeValer&theme=gruvbox&hide_border=true" width="70%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JorgeValer&theme=gruvbox&no-frame=true&column=7&margin-w=8" />
+<img src="https://streak-stats.demolab.com/?user=JorgeValer&theme=gruvbox&hide_border=true" width="70%"/>
 
 </div>
 
