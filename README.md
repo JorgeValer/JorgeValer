@@ -13,7 +13,7 @@ Combino desarrollo web y análisis de datos, moviéndome entre HTML, CSS, JavaSc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,jupyter,c,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github,vscode,figma" />
 
 </div>
 
