@@ -27,7 +27,7 @@ Combino desarrollo web y análisis de datos, moviéndome entre HTML, CSS, JavaSc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JorgeValer&bg_color=00000000&color=f2760c&line=f2760c&point=ffa94d&area=true&area_color=ffa94d&hide_border=true" width="90%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=F2760C&center=true&vCenter=true&width=600&lines=Ahora+mismo%3A+afianzando+Kotlin+y+machine+learning;Siempre+con+un+proyecto+nuevo+entre+manos" alt="focus" />
 
 </div>
 
