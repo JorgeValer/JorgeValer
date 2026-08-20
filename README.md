@@ -9,11 +9,11 @@
 
 </div>
 
-Combino desarrollo web y análisis de datos, moviéndome entre HTML, CSS, JavaScript, Python, Kotlin y C según lo que pida cada proyecto. Cada repositorio de este perfil es una prueba, un experimento o una excusa para entender algo mejor.
+Combino desarrollo web y análisis de datos, moviéndome entre HTML, CSS, JavaScript, Python, Jupyter Notebook y C según lo que pida cada proyecto. Cada repositorio de este perfil es una prueba, un experimento o una excusa para entender algo mejor.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,c,java,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,jupyter,c,git,github,vscode,figma" />
 
 </div>
 
@@ -27,7 +27,7 @@ Combino desarrollo web y análisis de datos, moviéndome entre HTML, CSS, JavaSc
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=F2760C&center=true&vCenter=true&width=600&lines=Ahora+mismo%3A+afianzando+Kotlin+y+machine+learning;Siempre+con+un+proyecto+nuevo+entre+manos" alt="focus" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=F2760C&center=true&vCenter=true&width=600&lines=Ahora+mismo%3A+afianzando+machine+learning;Siempre+con+un+proyecto+nuevo+entre+manos" alt="focus" />
 
 </div>
 
